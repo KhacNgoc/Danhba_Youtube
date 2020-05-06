@@ -1,0 +1,68 @@
+.col-sm-8.col-sm-offset-2.box {
+    border: 1px solid #2e9c77;
+}
+
+.head-phone {
+    background: #141717;
+    /* width: 100%; */
+    margin: 0px;
+    padding: 15px;
+}
+
+h3 {
+    margin: 0px;
+    text-align: center;
+}
+.row.search {
+    padding: 20px;
+    position: relative;
+}
+
+input#search {
+    /* padding: 4px 30px; */
+    width: 225px;
+    padding: 3px;
+}
+
+i.glyphicon.glyphicon-search {
+    position: absolute;
+    left: 30%;
+    top: 38%;
+    cursor: pointer;
+}
+.add-phone.row {
+    padding: 20px;
+}
+
+input#name {
+    padding: 4px;
+}
+
+input#tel {
+    padding: 4px;
+}
+ul.handle {
+    list-style: none;
+    padding: 0px;
+}
+
+ul.handle li {
+    float: left;
+    margin-right: 8px;
+    /* margin: 3px; */
+}
+input.btn-primary {
+    padding: 5px 10px;
+}
+.bg-4 {
+    background-color: #2f2f2f;
+    color: #ffffff;
+}
+/* footer */
+.mt-5.pt-5.pb-5.footer {
+    margin-top: 60px;
+    background: #212121;
+}
+.mt-5.pt-5.pb-5.footer {
+    color: #fff !important;
+}
